@@ -1,4 +1,4 @@
-# 🏛️ nd legislation file tree
+# 🏛️ North Dakota legislation file tree
 
 Download a copy of your states legislation.
 
