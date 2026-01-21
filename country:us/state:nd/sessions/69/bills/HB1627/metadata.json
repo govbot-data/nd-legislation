@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
-  "identifier": "HB 1623",
-  "title": "A BILL for an Act to provide an appropriation to the department of health and human services for federal rural health transformation program grant funds; to provide an exemption; to provide for application; to provide a report; and to provide an effective date.",
+  "identifier": "HB 1627",
+  "title": "A BILL for an Act to provide an appropriation to the department of public instruction to provide school meals at no cost to eligible students; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,24 +12,24 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Committee Hearing 10:30",
+      "description": "Committee Hearing 01:30",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-16T12:21:30Z"
+        "log_file_created": "2026-01-21T12:23:53Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Legislative Management",
+      "name": "Ty Dressler",
       "classification": "primary",
-      "entity_type": "organization",
+      "entity_type": "person",
       "primary": true,
-      "person_id": null,
-      "organization_id": "~{\"chamber\": \"legislature\", \"name\": \"Legislative Management\"}"
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ty Dressler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -38,7 +38,7 @@
       "note": "INTRODUCED",
       "links": [
         {
-          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1392-01000.pdf",
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1417-01000.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -50,7 +50,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://ndlegis.gov/assembly/69-2025/special/bill-overview/bo1623.html",
+      "url": "https://ndlegis.gov/assembly/69-2025/special/bill-overview/bo1627.html",
       "note": "HTML bill detail page"
     },
     {
