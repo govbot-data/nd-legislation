@@ -17,6 +17,18 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Introduced, first reading, referred Joint Appropriations Committee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
+      }
+    },
+    {
       "description": "Committee Hearing 03:30",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -24,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-21T12:23:53Z"
+      }
+    },
+    {
+      "description": "Reported back, do pass, place on calendar 22 0 1",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
       }
     }
   ],
@@ -71,6 +96,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:23:53Z"
+    "logs_latest_update": "2026-01-22T12:24:05Z"
   }
 }

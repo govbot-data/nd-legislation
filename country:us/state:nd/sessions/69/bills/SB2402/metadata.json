@@ -17,6 +17,18 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Introduced, first reading, referred Joint Policy Committee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
+      }
+    },
+    {
       "description": "Committee Hearing 01:00",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -24,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:21:30Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 14 0 0",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
       }
     }
   ],
@@ -49,9 +74,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1386-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Adopted by the Senate Joint Policy Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1386-01003m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -71,6 +119,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:21:30Z"
+    "logs_latest_update": "2026-01-22T12:24:05Z"
   }
 }

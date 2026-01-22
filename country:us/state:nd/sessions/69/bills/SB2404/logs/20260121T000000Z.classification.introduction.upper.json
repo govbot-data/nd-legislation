@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced, first reading, referred Joint Appropriations Committee",
+    "date": "2026-01-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2404"
+}

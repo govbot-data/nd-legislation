@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
   "identifier": "SB 2401",
-  "title": "A BILL for an Act to amend and reenact section 43-17-27.1 of the North Dakota Century Code, relating to physician continuing education requirements; to provide a statement of legislative intent; and to provide an effective date.",
+  "title": "A BILL for an Act to create and enact a new subdivision to subsection 2 of section 12-60-24 of the North Dakota Century Code, relating to criminal history record checks by the board of occupational therapy practice; to amend and reenact section 43-17-27.1 of the North Dakota Century Code, relating to physician continuing education requirements; to provide a statement of legislative intent; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,24 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relating to physician continuing education requirements; to provide a statement of legislative intent; and to provide an effective date."
+      "abstract": "Relating to criminal history record checks by the board of occupational therapy practice; to amend and reenact section 43\u201117\u201127.1 of the North Dakota Century Code, relating to physician continuing education requirements; to provide a statement of legislative intent; and to provide an effective date."
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
   "actions": [
+    {
+      "description": "Introduced, first reading, referred Joint Policy Committee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
+      }
+    },
     {
       "description": "Committee Hearing 10:30",
       "date": "2026-01-21",
@@ -24,6 +36,29 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:21:30Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 01:00",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 12 2 0",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:24:05Z"
       }
     }
   ],
@@ -49,9 +84,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1384-02000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Roers",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1384-01001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -71,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:21:30Z"
+    "logs_latest_update": "2026-01-22T12:24:05Z"
   }
 }
