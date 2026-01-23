@@ -60,6 +60,61 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:24:05Z"
       }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:23:19Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 44 nays 2",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:23:19Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:23:19Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Joint Policy Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:23:19Z"
+      }
+    },
+    {
+      "description": "Engrossment placed on calendar 13 0 1",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:23:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:24:05Z"
+    "logs_latest_update": "2026-01-23T12:23:19Z"
   }
 }
