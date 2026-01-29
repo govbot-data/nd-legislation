@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
   "identifier": "HB 1621",
-  "title": "A BILL for an Act to amend and reenact subsection 1 of section 15.1-21-01 and section 15.1-21-02 of the North Dakota Century Code, relating to requiring the presidential physical fitness test in physical education courses in elementary, middle, and high schools and providing exceptions to the test; and to provide an effective date.",
+  "title": "AN ACT to amend and reenact subsection 1 of section 15.1-21-01 and section 15.1-21-02 of the North Dakota Century Code, relating to requiring the presidential physical fitness test in physical education courses in elementary, middle, and high schools and providing exceptions to the test; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -115,6 +115,85 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:23:19Z"
       }
+    },
+    {
+      "description": "Second reading, passed, yeas 43 nays 3",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Returned to House",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 01/23",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 01/23",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,6 +224,17 @@
       "links": [
         {
           "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1383-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1383-04000.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -184,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:23:19Z"
+    "logs_latest_update": "2026-01-29T12:30:05Z"
   }
 }

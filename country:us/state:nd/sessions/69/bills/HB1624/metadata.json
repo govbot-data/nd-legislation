@@ -105,6 +105,42 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:23:19Z"
       }
+    },
+    {
+      "description": "Amendment proposed on floor",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Amendment failed",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 22 nays 24",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:30:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +277,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Magrum",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special/documents/25-1395-05001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -262,6 +309,6 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:23:19Z"
+    "logs_latest_update": "2026-01-29T12:30:05Z"
   }
 }
