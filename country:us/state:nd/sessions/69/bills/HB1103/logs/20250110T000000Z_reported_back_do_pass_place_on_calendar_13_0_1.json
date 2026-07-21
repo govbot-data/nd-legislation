@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Reported back, do pass, place on calendar 13 0 1",
+    "occurred_at": "2025-01-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "69",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1103.html",
+        "note": "HTML bill detail page"
+      },
+      {
+        "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+        "note": "JSON page of session bills"
+      }
+    ]
+  },
+  "bill_id": "HB 1103"
+}

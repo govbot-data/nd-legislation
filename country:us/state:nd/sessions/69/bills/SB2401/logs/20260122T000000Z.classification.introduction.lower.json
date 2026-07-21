@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced, first reading, referred Joint Policy Committee",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "69",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ndlegis.gov/assembly/69-2025/special/bill-overview/bo2401.html",
+        "note": "HTML bill detail page"
+      },
+      {
+        "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+        "note": "JSON page of session bills"
+      }
+    ]
+  },
+  "bill_id": "SB 2401"
+}

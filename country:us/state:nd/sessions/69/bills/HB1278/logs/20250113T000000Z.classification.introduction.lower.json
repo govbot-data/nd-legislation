@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced, first reading, referred Finance and Taxation Committee",
+    "occurred_at": "2025-01-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "69",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1278.html",
+        "note": "HTML bill detail page"
+      },
+      {
+        "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+        "note": "JSON page of session bills"
+      }
+    ]
+  },
+  "bill_id": "HB 1278"
+}

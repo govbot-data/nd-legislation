@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee Hearing 09:15",
+    "occurred_at": "2025-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "69",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2047.html",
+        "note": "HTML bill detail page"
+      },
+      {
+        "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+        "note": "JSON page of session bills"
+      }
+    ]
+  },
+  "bill_id": "SB 2047"
+}
