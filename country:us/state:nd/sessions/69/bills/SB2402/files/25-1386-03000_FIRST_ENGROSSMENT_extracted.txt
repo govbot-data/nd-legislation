@@ -1,0 +1,420 @@
+Title: 
+Official Title: 
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+25.1386.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2402
+Introduced by
+Legislative Management
+(Joint Policy Committee)
+1 A BILL for an Act to create and enact two new sections to chapter 43-15 and a new subsection
+2 to section 43-48-03 of the North Dakota Century Code, relating to the prescriptive authority of
+3 pharmacists and therapeutic substitution; to amend and reenact subsection 1 of section
+4 26.1-36.11-01 and section 43-15-01 of the North Dakota Century Code, relating to the scope of
+5 practice of pharmacists; to repeal section 43-15-25.3 of the North Dakota Century Code,
+6 relating to approved laboratory tests; and to provide an effective date.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Subsection 1 of section 26.1-36.11-01 of the North Dakota
+9 Century Code is amended and reenacted as follows:
+10 1. a. "Comprehensive medication management" means medication management
+11 pursuant to a standard of care that ensures each enrollee's medications, both
+12 prescription and nonprescription, are individually assessed to determine each
+13 medication is appropriate for the enrollee, effective for the medical condition, and
+14 safe, given the comorbidities and other medications being taken and able to be
+15 taken by the enrollee as intended. Services provided in comprehensive
+16 medication management are, as follows:
+17 (1) Performing or obtaining necessary assessments of the enrollee's health
+18 status;
+19 (2) Formulating a medication treatment plan;
+20 (3) Monitoring and evaluating the enrollee's response to therapy, including
+21 safety and effectiveness;
+Page No. 1 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (4) Performing a comprehensive medication review to identify, resolve, and
+2 prevent medication-related problems, including adverse drug events;
+3 (5) Providing verbal or written, or both, counseling, education, and training
+4 designed to enhance enrollee understanding and appropriate use of the
+5 enrollee's medications;
+6 (6) Providing information, support services, and resources designed to enhance
+7 enrollee adherence with the enrollee's therapeutic regimens;
+8 (7) Coordinating and integrating medication therapy management services
+9 within the broader health care management services being provided to the
+10 enrollee;
+11 (8) Initiating or modifying drug therapy under a collaborative agreement with a
+12 practitioner in accordance with section 43-15-31.4;
+13 (9) Prescribing medications pursuant to protocols approved by the state board
+14 of pharmacy in accordance with subsection 24 of section 43-15-10;
+15 (10) Administering medications in accordance with requirements in section
+16 43-15-31.5; and
+17 (11) Ordering, performing, and interpreting laboratory tests authorized by section
+18 43-15-25.3under chapter 43-15 and North Dakota Administrative Code
+19 section 61-04-10-06.
+20 b. This subsection may not be construed to expand or modify pharmacist scope of
+21 practice.
+22 SECTION 2. AMENDMENT. Section 43-15-01 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 43-15-01. Definitions.
+25 In this chapter, unless the context or subject matter otherwise requires:
+26 1. "Administration" means the direct application of a drug to the body of a patient. The
+27 term includes:
+28 a. The emergency maintenance of a drug delivery device used in home infusion
+29 therapy by a qualified home pharmacist if nursing service is not available;
+30 b. Immunization and vaccination by injection of an individual who is at least three
+31 years of age upon an order by a practitioner authorized to prescribe such a drug
+Page No. 2 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 or by written protocol with a physician or nurse practitioner and subsequently
+2 reported as a childhood immunization and other information if required to the
+3 state's immunization information system pursuant to section 23-01-05.3;
+4 c. Provision of other drugs to an individual who is at least three years of age upon
+5 the order of a practitioner authorized to prescribe such a drug; and
+6 d. Provision of drugs to an individual receiving emergency services in a health care
+7 facility upon an order or by established written protocol.
+8 2. "Automated dispensing system" means a mechanical system that performs operations
+9 or activities, other than compounding or administration, relative to the storage,
+10 packaging, counting, labeling, and dispensing of medications and which collects,
+11 controls, and monitors all transaction information.
+12 3. "Board" means the state board of pharmacy.
+13 4. "Compounding" means the preparation, mixing, assembling, packaging, or labeling of
+14 a drug or device:
+15 a. As the result of a practitioner's prescription drug order or initiative based on the
+16 practitioner, patient, and pharmacist relationship in the course of professional
+17 practice; or
+18 b. For the purpose of, or as an incident to, research, teaching, or chemical analysis
+19 and not for sale or dispensing.
+20 Compounding also includes the preparation of drugs or devices in anticipation of
+21 prescription drug orders based on routine, regularly observed prescribing patterns.
+22 5. "Confidential information" means individually identifiable health information maintained
+23 by the pharmacist in the patient's records or which is communicated to the patient as
+24 part of a patient counseling.
+25 6. "Deliver" or "delivery" means the actual, constructive, or attempted transfer of a drug
+26 or device from one person to another, whether or not for a consideration.
+27 7. "Device" means an instrument, apparatus, implement, machine, contrivance, implant,
+28 in vitro reagent, or other similar or related article, including any component part or
+29 accessory, which is required under federal or North Dakota law to be prescribed by a
+30 practitioner and dispensed by a pharmacist.
+Page No. 3 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 8. "Dispense" or "dispensing" means the preparation and delivery of a prescription drug,
+2 pursuant to a lawful order of a practitioner or a nurse licensed under chapter 43-12.1
+3 who is authorized by the practitioner to orally transmit the order that has been reduced
+4 to writing in the patient's record, in a suitable container appropriately labeled for
+5 subsequent administration to or use by a patient or other individual entitled to receive
+6 the prescription drug.
+7 9. "Distribute" means the delivery of a drug other than by dispensing or administering.
+8 10. "Drug" or "drugs" means:
+9 a. Articles recognized as drugs in the official United States pharmacopeia, official
+10 national formulary, official homeopathic pharmacopeia, other drug compendium,
+11 or any supplement to any of them;
+12 b. Articles intended for use in the diagnosis, cure, mitigation, treatment, or
+13 prevention of disease in man or other animal;
+14 c. Articles other than food intended to affect the structure or any function of the
+15 body of man or other animals; and
+16 d. Articles intended for use as a component of any articles specified in
+17 subdivision a, b, or c.
+18 11. "Drug regimen review" includes the following activities:
+19 a. Evaluation of the prescription drug orders and patient records for:
+20 (1) Known allergies;
+21 (2) Rational therapy-contraindications;
+22 (3) Reasonable dose and route of administration; and
+23 (4) Reasonable directions for use.
+24 b. Evaluation of the prescription drug orders and patient records for duplication of
+25 therapy.
+26 c. Evaluation of the prescription drug orders and patient records for interactions:
+27 (1) Drug-drug;
+28 (2) Drug-food;
+29 (3) Drug-disease; and
+30 (4) Adverse drug reactions.
+Page No. 4 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 d. Evaluation of the prescription drug orders and patient records for proper
+2 utilization, including overutilization or underutilization, and optimum therapeutic
+3 outcomes.
+4 12. "Emergency pharmacy practice" means in the event a pharmacist receives a request
+5 for a prescription refill and the pharmacist is unable to obtain refill authorization from
+6 the prescriber, the pharmacist may dispense and bill using a pharmacist national
+7 provider identifier a one-time emergency refill of up to a thirty-day supply of the
+8 prescribed medication, provided that:
+9 a. The prescription is not for a controlled substance listed in schedule II;
+10 b. The pharmaceutical is essential to the maintenance of life or to the continuation
+11 of therapy;
+12 c. In the pharmacist's professional judgment, the interruption of therapy might
+13 reasonably produce undesirable health consequences or may cause physical or
+14 mental discomfort;
+15 d. The pharmacist properly records the dispensing; and
+16 e. The dispensing pharmacist notifies the prescriber of the emergency dispensing
+17 within a reasonable time after the one-time emergency refill dispensing.
+18 13. "Labeling" means the process of preparing and affixing of a label to any drug container
+19 exclusive, however, of the labeling by a manufacturer, packer, or distributor of a
+20 nonprescription drug or commercially packaged legend drug or device. Any label shall
+21 include all information required by federal and North Dakota law or regulation.
+22 14. "Manufacture" means the production, preparation, propagation, compounding,
+23 conversion, or processing of a device or a drug, either directly or indirectly by
+24 extraction from substances of natural origin or independently by means of chemical
+25 synthesis or by a combination of extraction and chemical synthesis and includes any
+26 packaging or repackaging of the substances or labeling or relabeling of its container,
+27 except that this term does not include the preparation or compounding of a drug by an
+28 individual for the individual's own use or the preparation, compounding, packaging, or
+29 labeling of a drug:
+30 a. By a pharmacist or practitioner as an incident to dispensing or administering of a
+31 drug in the course of the person's professional practice; or
+Page No. 5 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. By a practitioner or by the practitioner's authorization under supervision for the
+2 purpose of or as an incident to research, teaching, or chemical analysis and not
+3 for sale.
+4 15. "Manufacturer" means a person engaged in the manufacture of drugs in facilities
+5 located within North Dakota.
+6 16. "Medicine" means a drug or combination of drugs, used in treating disease in man or
+7 other animals.
+8 17. "Nonprescription drugs" means medicines or drugs which may be sold without a
+9 prescription and which are prepackaged for use by the consumer and labeled in
+10 accordance with the requirements of the statutes and regulations of this state and the
+11 federal government.
+12 18. "Original package" means the original carton, case, can, box, vial, bottle, or other
+13 receptacle, put up by the manufacturer or wholesaler or distributor, with label attached,
+14 making one complete package of the drug article.
+15 19. "Patient-pharmacist relationship" means the required relationship between a patient
+16 and a pharmacist as defined under the rules of the board which authorizes the
+17 pharmacist to independently prescribe drugs, drug categories, and devices as limited
+18 by this chapter.
+19 20. "Person" means an individual, corporation, limited liability company, partnership,
+20 association, or any other legal entity.
+21 20.21. "Pharmaceutical care" is the provision of drug therapy and other pharmaceutical
+22 patient care services intended to achieve outcomes related to the cure or prevention of
+23 a disease, elimination or reduction of a patient's symptoms, or arresting or slowing of a
+24 disease process as defined in the rules of the board.
+25 21.22. "Pharmacist" means a person to whom the board has issued a license to practice the
+26 profession of pharmacy whose license has not expired or been suspended.
+27 22.23. "Pharmacy" or "drugstore" means every store or shop where drugs, medicines, or
+28 chemicals are dispensed, displayed for sale, or sold, at retail for medicinal purposes,
+29 or where prescriptions are compounded, and which is duly registered by the board.
+30 23.24. "Pharmacy technician" means a person registered by the board who is employed by a
+31 pharmacy to assist licensed pharmacists in the practice of pharmacy by performing
+Page No. 6 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 specific tasks delegated by and under the immediate personal supervision and control
+2 of a licensed pharmacist, as permitted by the board.
+3 24.25. "Practice of pharmacy" means the:
+4 a. The interpretation, evaluation, and monitoring of prescription orders and patient
+5 drug therapy; the
+6 b. The compounding, dispensing, and labeling of drugs and devices except labeling
+7 by a manufacturer, packer, or distributor of nonprescription drugs and
+8 commercially packaged legend drugs and devices; the
+9 c. The participation in drug selection, drug monitoring, drug administration, drug
+10 regimen review, the provision of these acts or services necessary as a primary
+11 health care provider of pharmaceutical care, and drug utilization evaluations; the
+12 d. The proper and safe storage of drugs and devices and the maintenance of proper
+13 records for this storage; the
+14 e. The responsibility for advising, consulting, and educating if necessary or if
+15 regulated, patients, the public, and other health care providers on the rational,
+16 safe, and cost-effective use of drugs including therapeutic values, content,
+17 hazards, and appropriate use of drugs and devices; the
+18 f. The participation in interpreting and applying pharmacokinetic data and other
+19 pertinent laboratory data to design safe and effective drug dosage regimens; if
+20 g. If appropriate and if regulated, the participation in scientific or clinical drug
+21 research either scientific or clinical as an investigator or in collaboration with
+22 other investigators for the purposes of studying the effects of drugs on animals or
+23 human subjects, with other drugs or chemicals, and with drug delivery devices;
+24 emergency
+25 h. Emergency pharmacy practice; prescriptive
+26 i. Prescriptive practices as limited under this chapter; the
+27 j. The ordering of laboratory tests;
+28 k. The performance of laboratory tests to provide pharmaceutical care services
+29 which are waived under the Federal Clinical Laboratory Improvement Act of 1988
+30 [Pub. L. 100-578, section 2; 102 Stat. 2903; 42 U.S.C. 263a et seq.], as
+31 amended; and the
+Page No. 7 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 l. The offering or performing of those acts, services, operations, or transactions
+2 necessary in the conduct, operation, management, and control of pharmacy.
+3 25.26. "Practitioner" means an individual licensed, registered, or otherwise authorized by the
+4 jurisdiction in which the individual is practicing to prescribe drugs in the course of
+5 professional practice.
+6 26.27. "Prescription" means any order for drugs or medical supplies, if such order is written or
+7 signed or transmitted by word of mouth, telephone, telegram, or other means of
+8 communication by a duly licensed physician, optometrist, dentist, veterinarian, or other
+9 practitioner, licensed by law to prescribe and administer such drugs or medical
+10 supplies intended to be filled, compounded, or dispensed by a pharmacist or any order
+11 for drugs or medical supplies transmitted orally by a nurse licensed under chapter
+12 43-12.1 as written and signed by such a duly licensed physician, optometrist, dentist,
+13 veterinarian, or other practitioner.
+14 27.28. "Prescription drug or legend drug" means a drug which, under federal law is required,
+15 prior to being dispensed or delivered, to be labeled with one of the following:
+16 a. "Caution: Federal law prohibits dispensing without prescription";
+17 b. "Caution: Federal law restricts this drug to use by or on the order of a licensed
+18 veterinarian"; or
+19 c. Rx only;
+20 or a drug which is required by any applicable federal or North Dakota law or rule to be
+21 dispensed on prescription only or is restricted to use by practitioners only.
+22 28.29. "Public health issues" include immunizations, tobacco cessation, and other issues
+23 deemed appropriate by the board.
+24 29.30. "Radiopharmaceutical service" means, but is not limited to, the compounding,
+25 dispensing, labeling, and delivery of radiopharmaceuticals; the participation in
+26 radiopharmaceutical selection and radiopharmaceutical utilization reviews; the proper
+27 and safe storage and distribution of radiopharmaceuticals; the maintenance of
+28 radiopharmaceutical quality assurance; the responsibility for advising, where
+29 necessary or where regulated, of therapeutic values, hazards, and use of
+30 radiopharmaceuticals; and the offering or performing of those acts, services,
+Page No. 8 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 operations, or transactions necessary in the conduct, operation, management, and
+2 control of radiopharmaceuticals.
+3 30.31. "Wholesaler" means a person with facilities located in this state who buys for resale
+4 and distribution to persons other than consumers.
+5 SECTION 3. A new section to chapter 43-15 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Prescriptive authority.
+8 1. A pharmacist whose practice is physically located within this state, acting in good faith
+9 and exercising reasonable care, may independently prescribe drugs, drug categories,
+10 and devices as provided in this section if each of the following requirements are met:
+11 a. A pharmacist may prescribe drugs or devices only for conditions for which the
+12 pharmacist is educationally prepared and competence has been achieved and
+13 maintained.
+14 b. A pharmacist may issue a prescription only for a legitimate medical purpose
+15 arising from a patient-pharmacist relationship.
+16 c. A pharmacist shall obtain adequate information about the patient's health status
+17 to make appropriate decisions based on the applicable standard of care.
+18 d. For each drug or drug category a pharmacist intends to prescribe, the pharmacist
+19 shall maintain a patient assessment protocol based on current clinical guidelines,
+20 when available, or evidence-based research findings that specify the following:
+21 (1) Patient inclusion and exclusion criteria; and
+22 (2) Explicit medical referral criteria.
+23 e. A pharmacist shall revise the patient assessment protocol when necessary to
+24 ensure continued compliance with clinical guidelines or evidence-based research
+25 findings. The pharmacist's patient assessment protocol, and any related forms,
+26 must be made available to the board upon request.
+27 f. A pharmacist shall consult with and refer to other health care professionals as
+28 appropriate, including in situations where the pharmacist's knowledge or
+29 experience is limited.
+30 g. A pharmacist shall develop and implement an appropriate follow-up care plan,
+31 including any monitoring parameters, in accordance with clinical guidelines. The
+Page No. 9 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 plan may include follow-up care with the patient and communication with the
+2 patient's primary care provider.
+3 h. A pharmacist shall inquire about the identity of the patient's primary care provider
+4 or provider of record. If a primary care provider or provider of record is identified,
+5 the pharmacist shall provide notification to the primary care provider or provider
+6 of record within three business days following the prescription of a drug. The
+7 notification must include the results of any test that required the prescription and,
+8 upon the provider's request, any relevant documentation required under
+9 subdivision i .
+10 i. A pharmacist shall maintain documentation adequate to justify the care provided,
+11 including information collected as part of the patient assessment, the prescription
+12 record, any notification provided under this section, and the follow-up care plan.
+13 2. A pharmacist may prescribe any drug approved by the federal food and drug
+14 administration which is indicated for the following conditions:
+15 a. Lice;
+16 b. Cold sores;
+17 c. Motion sickness, including the prevention of motion sickness; and
+18 d. Hypoglycemia .
+19 3. A pharmacist may prescribe any of the following devices approved by the federal food
+20 and drug administration:
+21 a. Inhalation spacer;
+22 b. Nebulizer;
+23 c. Disposable diabetes blood sugar testing supplies;
+24 d. Pen needles; and
+25 e. Auto-injectors containing drugs for patients with a documented history of allergies
+26 or anaphylaxis.
+27 4. A pharmacist may prescribe any drug approved by the federal food and drug
+28 administration which is indicated for the following conditions, provided the
+29 symptomatic patient first tests positive to a test that is waived under the Federal
+30 Clinical Laboratory Improvement Act of 1988 [Pub. L. 100-578, section 2; 102 Stat.
+31 2903; 42 U.S.C. 263a et seq.], as amended:
+Page No. 10 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Influenza;
+2 b. Group A streptococcal pharyngitis; and
+3 c. Severe acute respiratory syndrome coronavirus 2 identified as SARS-CoV-2.
+4 5. If a patient tested positive for influenza, a pharmacist may prescribe an antiviral drug
+5 to an individual who has been exposed to the infected patient and for whom the
+6 clinical guidelines recommend chemoprophylaxis.
+7 6. A pharmacist may prescribe any drug approved by the federal food and drug
+8 administration for the purpose of closing a gap in clinical guidelines as follows:
+9 a. Postexposure prophylaxis for nonoccupational exposure to human
+10 immunodeficiency virus infection; and
+11 b. Short-acting beta agonists for a patient with asthma who has had a prior
+12 prescription for a short-acting beta agonist and who has a current prescription for
+13 a long-term asthma control drug.
+14 7. A pharmacist who successfully completes an accredited continuing pharmacy
+15 education or continuing medical education course on travel medicine may prescribe
+16 any noncontrolled drug recommended for individuals traveling outside the United
+17 States which is specifically listed in the federal centers for disease control and
+18 prevention health information for international travel publication. The pharmacist only
+19 may prescribe drugs that are indicated for the patient's intended destination for travel.
+20 8. If an emergency situation exists which in the professional judgment of the pharmacist
+21 threatens the health or safety of the patient, a pharmacist may prescribe the following
+22 drugs approved by the federal food and drug administration in the minimum quantity
+23 necessary until the patient is able to be seen by a provider:
+24 a. Diphenhydramine;
+25 b. Epinephrine; and
+26 c. Short-acting beta agonists.
+27 9. A pharmacist may prescribe antimicrobial prophylaxis for the prevention of lyme
+28 disease in accordance with the federal centers for disease control and prevention
+29 guidelines.
+30 SECTION 4. A new section to chapter 43-15 of the North Dakota Century Code is created
+31 and enacted as follows:
+Page No. 11 25.1386.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Therapeutic substitution.
+2 1. A pharmacist whose practice is physically located within this state may substitute a
+3 drug for a therapeutically equivalent drug, except for antidepressants, antipsychotics,
+4 chemotherapy agents, schedule II controlled substances, biological products, and
+5 narrow therapeutic index drugs, as limited by this section. Therapeutic equivalence
+6 may be established by clinical publications comparing dosages of drugs in a
+7 therapeutic class.
+8 2. A pharmacist may not substitute a drug for a therapeutically equivalent drug if:
+9 a. The prescriber indicates no substitution is to be made; or
+10 b. The board has determined a therapeutically equivalent drug should not be
+11 substituted and notified pharmacists of that determination.
+12 3. Before dispensing a therapeutically equivalent drug, a pharmacist shall:
+13 a. Verbally discuss the suggested substitution with the patient, including informing
+14 the patient that the therapeutically equivalent drug does not contain the identical
+15 active ingredient present in the prescribed drug and any differences in dosage
+16 and frequency between the prescribed drug and the therapeutically equivalent
+17 drug;
+18 b. Inform the patient of the patient's right to refuse the substitution; and
+19 c. Determine whether the substitution would provide a cost benefit to the patient or
+20 provide access if the prescribed drug is not available.
+21 4. The pharmacist shall send notice of the substitution to the prescriber by electronic
+22 communication within twenty-four hours of dispensing the drug to the patient.
+23 5. The prescribing provider is not liable for a substitution made by a pharmacist under
+24 this section.
+25 SECTION 5. A new subsection to section 43-48-03 of the North Dakota Century Code is
+26 created and enacted as follows:
+27 Pharmacists duly and currently licensed to practice pharmacy.
+28 SECTION 6. REPEAL. Section 43-15-25.3 of the North Dakota Century Code is repealed.
+29 SECTION 7. EFFECTIVE DATE. This Act becomes effective upon its filing with the
+30 secretary of state.
+Page No. 12 25.1386.03000
