@@ -88,6 +88,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T05:33:08Z"
+    "logs_latest_update": "2026-08-22T05:33:08Z",
+    "text_extraction_latest_update": "2026-08-22T05:34:05.712062Z"
   }
 }

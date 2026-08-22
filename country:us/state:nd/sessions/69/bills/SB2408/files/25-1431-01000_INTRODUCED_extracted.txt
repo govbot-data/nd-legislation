@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+25.1431.01000
+Sixty-ninth
+SENATE BILL NO. 2408
+Legislative Assembly
+of North Dakota
+Introduced by
+Senator Axtman
+1 A BILL for an Act to create and enact subdivision lll of subsection 3 of section 19-03.1-05 of the
+2 North Dakota Century Code, relating to the scheduling of mitragynine synthetic derivatives as a
+3 schedule I controlled substance; to amend and reenact section 19-03.1-22.3 and subsection 7
+4 of section 19-03.1-23 of the North Dakota Century Code, relating to penalties for the use and
+5 possession of mitragynine synthetic derivatives; to provide a penalty; and to provide an effective
+6 date.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. Subdivision lll of subsection 3 of section 19-03.1-05 the North Dakota Century
+9 Code is created and enacted as follows:
+10 lll. Mitragynine synthetic derivatives. Unless specifically excepted or listed in another
+11 schedule, any of the following mitragynine synthetic derivatives, its isomers,
+12 esters, ethers, salts, and salts of isomers:
+13 (1) Methyl (E)2-((2S,3S,7aS)-3-ethyl-7a-hydroxy-8-methoxy-1,2,3,4,6,7,7a,12b-
+14 octahydroindolo[2,3-a]quinolizin-2-yl)-3-methoxyacrylate (also known as 7-
+15 hydroxymitragynine; also known as (alphaE,2S,3S,7aS,12bS)-3-ethyl-
+16 1,2,3,4,6,7,7a,12b-octahydro-7a-hydroxy-8-methoxy-a-(methoxymethylene)-
+17 indolo[2,3-a]quinolizine-2-acetic acid, methyl ester) above a specified
+18 threshold described as:
+19 (a) Any botanical material of the plant mitragyna speciosa, also known as
+20 kratom, and contains more than 0.05 percentage of 7-
+21 hydroxymitragynine on a dry weight basis; or
+22 (b) Any alternative article or material to that described in subparagraph a ,
+23 that is:
+Page No. 1 25.1431.01000
+
+Sixty-ninth
+Legislative Assembly
+1 [1] Resulting from synthetic methods and containing 7-
+2 hydroxymitragynine present in amounts greater than 0.05
+3 percentage weight/weight, weight/volume, or volume/volume or
+4 greater than 1 milligram of 7-hydroxymitragynine in the article; or
+5 [2] Material derived from mitragyna speciosa and further processed
+6 to manufacture alternative dosage forms such as extracts,
+7 concentrates, processed edibles, or pressed pills, and which may
+8 have materials that have been exposed to chemical, thermal, or
+9 other methods leading to chemical transformations that result in
+10 7-hydroxymitragynine present in amounts greater than 0.05
+11 percentage weight/weight, weight/volume, or volume/volume or
+12 greater than 1 milligram of 7-hydroxymitragynine in the article.
+13 (2) Methyl (E)-2-((1'S,6'S,7'S)-6'-ethyl-4-methoxy-3-oxo-3',5',6',7',8',8a'-
+14 hexahydro-2'H-spiro[indoline-2,1'-indolizine]-7'-yl)-3-methoxyacrylate (also
+15 known as mitragynine pseudoindoxyl).
+16 (3) Methyl (E)-2-((2S,3S,7aS,12aR,12bS)-3-ethyl-7a-hydroxy-8-methoxy-
+17 1,2,3,4,6,7,7a,12,12a,12b-decahydroindolo[2,3-a]quinolizin-2-yl)-3-
+18 methoxyacrylate (also known as MGM-15; also known as dihydro-7-
+19 hydroxymitragynine).
+20 (4) Methyl (E)-2-((2S,3S,7aS,12aR,12bS)-3-ethyl-9-fluoro-7a-hydroxy-8-
+21 methoxy-1,2,3,4,6,7,7a,12,12a,12b-decahydroindolo[2,3-a]quinolizin-2-yl)-3-
+22 methoxyacrylate (also known as MGM-16; also known as fluoro-dihydro-7-
+23 hydroxymitragynine; also known as 9-fluoro derivate of dihydro-7-
+24 hydroxymitragynine; also known as the 10-fluoro derivate of dihydro-7-
+25 hydroxymitragynine).
+26 (5) Methyl (E)-2-[(2S,3S,7aS,12bS)-7a-acetyloxy-3-ethyl-8-methoxy-
+27 2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-
+28 enoate (also known as 7-acetoxymitragynine).
+29 SECTION 2. AMENDMENT. Section 19-03.1-22.3 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 2 25.1431.01000
+
+Sixty-ninth
+Legislative Assembly
+1 19-03.1-22.3. Ingesting a controlled substance - Venue for violation - Penalty.
+2 1. Except as provided in subsectionsubsections 2 and 3, a person who intentionally
+3 ingests, inhales, injects, or otherwise takes into the body a controlled substance,
+4 unless the substance was obtained directly from a practitioner or pursuant to a valid
+5 prescription or order of a practitioner while acting in the course of the practitioner's
+6 professional practice, is guilty of a class A misdemeanor. This subsection does not
+7 apply to ingesting, inhaling, injecting, or otherwise taking into the body marijuana or
+8 tetrahydrocannabinol.
+9 2. A person who is under twenty-one years of age and intentionally ingests, inhales,
+10 injects, or otherwise takes into the body a controlled substance that is marijuana or
+11 tetrahydrocannabinol, unless the substance was medical marijuana obtained in
+12 accordance with chapter 19-24.1, is guilty of a class B misdemeanor.
+13 3. A person who intentionally ingests, inhales, injects, or otherwise takes into the body a
+14 controlled substance that is a mitragynine synthetic derivative is guilty of an infraction
+15 for a first offense and a class A misdemeanor for a second or subsequent offense .
+16 4. The venue for a violation of this section exists in either the jurisdiction in which the
+17 controlled substance was ingested, inhaled, injected, or otherwise taken into the body
+18 or the jurisdiction in which the controlled substance was detected in the body of the
+19 accused.
+20 SECTION 3. AMENDMENT. Subsection 7 of section 19-03.1-23 of the North Dakota
+21 Century Code is amended and reenacted as follows:
+22 7. a. It is unlawful for any person to willfully, as defined in section 12.1-02-02, possess
+23 a controlled substance or a controlled substance analog unless the substance
+24 was obtained directly from, or pursuant to, a valid prescription or order of a
+25 practitioner while acting in the course of the practitioner's professional practice, or
+26 except as otherwise authorized by this chapter, but any person who violates
+27 section 12-46-24 or 12-47-21 may not be prosecuted under this subsection.
+28 b. Except as otherwise provided in this subsection, any person who violates this
+29 subsection is guilty of a class A misdemeanor for the first offense. If a person is
+30 convicted of a second or subsequent offense not related to marijuana or,
+31 tetrahydrocannabinol, or a mitragynine synthetic derivative under this section or
+Page No. 3 25.1431.01000
+
+Sixty-ninth
+Legislative Assembly
+1 chapter 19-03.2, 19-03.3, or 19-03.4, or an equivalent offense from another court
+2 in the United States, the violation is a class C felony.
+3 c. If, at the time of the offense the person is in or on the real property comprising a
+4 public or private elementary or secondary school or a public career and technical
+5 education school, the person is guilty of a class B felony, unless the offense
+6 involves marijuana or, tetrahydrocannabinol, or a mitragynine synthetic
+7 derivative.
+8 d. A person who violates this subsection by possessing:
+9 (1) Marijuana:
+10 (a) In an amount of less than one-half ounce [14.175 grams] is guilty of
+11 an infraction.
+12 (b) At least one-half ounce [14.175 grams] but not more than 500 grams
+13 of marijuana is guilty of a class B misdemeanor.
+14 (c) More than 500 grams of marijuana is guilty of a class A misdemeanor.
+15 (2) Tetrahydrocannabinol:
+16 (a) In an amount less than two grams is guilty of an infraction.
+17 (b) At least two grams but not more than six grams of
+18 tetrahydrocannabinol is guilty of a class B misdemeanor.
+19 (c) More than six grams of tetrahydrocannabinol is guilty of a class A
+20 misdemeanor.
+21 e. A person who violates this subsection by possessing a mitragynine synthetic
+22 derivative is guilty of an infraction for a first offense, a class A misdemeanor for a
+23 second offense, or a class C felony for a third or subsequent offense .
+24 f. If an individual is sentenced to the legal and physical custody of the department
+25 of corrections and rehabilitation under this subsection, the department may place
+26 the individual in a drug and alcohol treatment program designated by the
+27 department. Upon the successful completion of the drug and alcohol treatment
+28 program, the department shall release the individual from imprisonment to begin
+29 any court-ordered period of probation.
+Page No. 4 25.1431.01000
+
+Sixty-ninth
+Legislative Assembly
+1 f.g. If the individual is not subject to any court-ordered probation, the court shall order
+2 the individual to serve the remainder of the sentence of imprisonment on
+3 supervised probation subject to the terms and conditions imposed by the court.
+4 g.h. Probation under this subsection may include placement in another facility,
+5 treatment program, treatment court, mental health court, or veterans treatment
+6 docket. If an individual is placed in another facility or treatment program upon
+7 release from imprisonment, the remainder of the sentence must be considered as
+8 time spent in custody.
+9 h.i. An individual incarcerated under this subsection as a result of a second probation
+10 revocation is not eligible for release from imprisonment upon the successful
+11 completion of treatment.
+12 i.j. A person who violates this subsection regarding possession of five or fewer
+13 capsules, pills, or tablets of a schedule II, III, IV, or V controlled substance or
+14 controlled substance analog is guilty of a class A misdemeanor. If a person is
+15 convicted of a second or subsequent offense not related to marijuana or
+16 tetrahydrocannabinol under this section or chapter 19-03.2, 19-03.3, or 19-03.4,
+17 or an equivalent offense from another court in the United States, the violation is a
+18 class C felony.
+19 SECTION 4. EFFECTIVE DATE. This Act becomes effective upon its filing with the
+20 secretary of state.
+Page No. 5 25.1431.01000
