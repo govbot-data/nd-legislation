@@ -19,7 +19,18 @@
       "identifier": "ocd-bill-nd-69-sb2405"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Committee Hearing 10:30",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:34:08Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Dean Rummel",
@@ -27,14 +38,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dean Rummel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dale Patten",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dale Patten\"}",
       "organization_id": null
     },
     {
@@ -51,6 +54,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Craig Headland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dale Patten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dale Patten\"}",
       "organization_id": null
     }
   ],
@@ -88,7 +99,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T05:33:08Z",
+    "logs_latest_update": "2026-08-26T05:34:08Z",
     "text_extraction_latest_update": "2026-08-22T05:34:05.712062Z"
   }
 }
