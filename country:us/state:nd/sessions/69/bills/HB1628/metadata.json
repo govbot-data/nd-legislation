@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
   "identifier": "HB 1628",
-  "title": "A BILL for an Act to create and enact chapter 51-38 of the North Dakota Century Code, relating to the regulation of kratom products; to amend and reenact section 12.1-31-03 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
+  "title": "A BILL for an Act to create and enact a new subdivision to subsection 2 of section 12-60-24 and chapter 51-38 of the North Dakota Century Code, relating to criminal history record checks and the regulation of kratom products; to amend and reenact section 12.1-31-03 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relating to the regulation of kratom products; to amend and reenact section 12.1\u201131\u201103 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty\u2011one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date."
+      "abstract": "Relating to criminal history record checks and the regulation of kratom products; to amend and reenact section 12.1\u201131\u201103 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty\u2011one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date."
     }
   ],
   "other_titles": [],
@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Introduced, first reading, referred Joint Policy Committee",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:31:09Z"
+      }
+    },
+    {
       "description": "Committee Hearing 10:30",
       "date": "2026-09-02",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -28,6 +40,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-26T05:34:08Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 8 1 1",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T09:31:09Z"
       }
     }
   ],
@@ -53,9 +78,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-05000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Representative Heinert",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-03001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T05:34:08Z",
+    "logs_latest_update": "2026-09-03T09:31:09Z",
     "text_extraction_latest_update": "2026-08-26T05:35:00.415383Z"
   }
 }
