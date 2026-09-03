@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+25.1425.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2406
+Introduced by
+Senators Mathern, Sorvaag
+Representatives Heilman, Warrey, C. Brown
+1 A BILL for an Act to create and enact chapter 44-04.1 of the North Dakota Century Code,
+2 relating to prohibiting agencies from entering nondisclosure agreements concerning data
+3 centers and industrial projects; to provide a penalty; to provide an effective date; and to provide
+4 an expiration date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. Chapter 44-04.1 of the North Dakota Century Code is created and enacted as
+7 follows:
+8 44-04.1-01. Definitions.
+9 As used in this chapter:
+10 1. "Agency" means the state or a political subdivision or a person or contractor acting on
+11 behalf of or an employee or an elected or appointed official acting in an official
+12 capacity of the state or a political subdivision.
+13 2. "Data center" means a facility constructed primarily for the storage, management, and
+14 processing of digital data, which houses computer and network systems, including
+15 associated components such as servers, network equipment and appliances,
+16 telecommunications systems, internet-related equipment and services, data
+17 communications connections, environmental control systems, fire protection systems,
+18 security systems, and other equipment and infrastructure necessary to support the
+19 operation of the facility.
+20 3. "Developer" means a person that proposes, owns, operates, or seeks approval for a
+21 data center or industrial project.
+Page No. 1 25.1425.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. "Industrial project" means a project relating to the development of a business, industry,
+2 utility, or infrastructure.
+3 5. "Nondisclosure agreement" means an agreement, provision, clause, or contractual
+4 term that has the purpose or effect of:
+5 a. Restricting an agency from disclosing information about a potential data center or
+6 industrial project to a member of the public, including information about the
+7 location, siting, construction, modification, expansion, energy demand and type,
+8 water usage, utility interconnection, and other potential community and
+9 environmental impacts;
+10 b. Designating the construction, proposed construction, modification, expansion, or
+11 other information concerning a data center or industrial project as confidential;
+12 c. Prohibiting an agency from disclosing, discussing, describing, or commenting on
+13 the proposed construction, modification, or expansion of a data center or
+14 industrial project; or
+15 d. Requiring an agency to obtain advance approval from a developer before
+16 disclosing information about a data center or industrial project.
+17 44-04.1-02. Prohibition on nondisclosure agreements.
+18 1. An agency may not enter a nondisclosure agreement with a developer regarding an
+19 operating data center or industrial project, a proposed data center or industrial project,
+20 a data center or industrial project for which the developer is seeking approval from the
+21 agency, or a data center or industrial project under construction.
+22 2. If a developer has entered a nondisclosure agreement in violation of this chapter, an
+23 agency may not approve, issue, or grant a license, permit, certification, zoning
+24 approval, tax incentive, or other authorization for the data center or industrial project.
+25 3. A nondisclosure agreement entered in violation of this chapter is void and
+26 unenforceable.
+27 44-04.1-03. Public records.
+28 1. This chapter does not limit or diminish the public's right of access to records of an
+29 agency under section 44 - 04 - 18 .
+30 2. This chapter does not modify, expand, or create an exemption from disclosure under
+31 state law.
+Page No. 2 25.1425.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3. This chapter does not prohibit an agency from entering a nondisclosure agreement or
+2 other agreement to maintain the confidentiality of a record or information that is
+3 confidential or exempt from disclosure under state law.
+4 4. An agency may disclose or comment on the substance of an open record. Any
+5 agreement prohibiting the disclosure or comment is void and against public policy.
+6 44-04.1-04. Application requirements - Enforcement - Penalty.
+7 1. As part of an application submitted to an agency, a developer shall declare under
+8 penalty of perjury the developer has not entered a nondisclosure agreement in
+9 violation of this chapter.
+10 2. A violation of this section constitutes grounds for suspension, revocation, or rescission
+11 of a permit or approval issued by an agency.
+12 3. An agency that violates this chapter is subject to a civil penalty not to exceed one
+13 thousand dollars for each violation. The attorney general or the state's attorney of the
+14 county in which the violation occurred may bring an action to recover the civil penalty.
+15 SECTION 2. EFFECTIVE DATE. This Act becomes effective upon its filing with the
+16 secretary of state.
+17 SECTION 3. EXPIRATION DATE. This Act is effective through June 30, 2027, and after that
+18 date is ineffective.
+Page No. 3 25.1425.03000
