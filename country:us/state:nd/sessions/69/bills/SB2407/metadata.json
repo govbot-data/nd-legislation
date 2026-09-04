@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
   "identifier": "SB 2407",
-  "title": "A BILL for an Act to provide an appropriation to the state historical society for the North Dakota military museum project; to amend and reenact section 55-01-02.1 of the North Dakota Century Code, relating to jurisdiction of the heritage center; to authorize a line of credit; to provide for a report; and to provide an effective date.",
+  "title": "A BILL for an Act to provide an appropriation to the state historical society for the North Dakota military museum project; to amend and reenact section 55-01-02.1 of the North Dakota Century Code, relating to jurisdiction of the heritage center; to repeal subsection 3 of section 6 of chapter 17 of the 2025 Session Laws, relating to a donation pledge requirement to access funding from the strategic investment and improvements fund; to provide a statement of legislative intent; to authorize a line of credit; to provide for a report; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relating to jurisdiction of the heritage center; to authorize a line of credit; to provide for a report; and to provide an effective date."
+      "abstract": "Relating to jurisdiction of the heritage center; to repeal subsection\u00a03 of section\u00a06 of chapter\u00a017 of the 2025 Session Laws, relating to a donation pledge requirement to access funding from the strategic investment and improvements fund; to provide a statement of legislative intent; to authorize a line of credit; to provide for a report; and to provide an effective date."
     }
   ],
   "other_titles": [],
@@ -50,6 +50,77 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-03T09:31:09Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 12 3 1",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 39 nays 8",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Joint Appropriations Committee",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, engrossment placed on calendar 22 1 0",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T09:22:53Z"
       }
     }
   ],
@@ -99,9 +170,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1421-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Representative Bosch",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1421-02011m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -121,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T09:31:09Z",
+    "logs_latest_update": "2026-09-04T09:22:53Z",
     "text_extraction_latest_update": "2026-09-03T09:31:58.145282Z"
   }
 }
