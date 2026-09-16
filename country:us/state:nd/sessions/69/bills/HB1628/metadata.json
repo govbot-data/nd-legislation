@@ -1,7 +1,7 @@
 {
   "legislative_session": "69",
   "identifier": "HB 1628",
-  "title": "A BILL for an Act to create and enact a new subdivision to subsection 2 of section 12-60-24 and chapter 51-38 of the North Dakota Century Code, relating to criminal history record checks and the regulation of kratom products; to amend and reenact section 12.1-31-03 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
+  "title": "AN ACT to create and enact a new subdivision to subsection 2 of section 12-60-24, subdivision lll of subsection 3 of section 19-03.1-05, and chapter 51-38 of the North Dakota Century Code, relating to criminal history record checks, the scheduling of kratom alkaloid derivatives as a schedule I controlled substance, and the regulation of kratom products; to amend and reenact sections 12.1-31-03 and 19-03.1-22.3, and subsection 7 of section 19-03.1-23 of the North Dakota Century Code, relating to penalties for the use and possession of kratom alkaloid derivatives and the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relating to criminal history record checks and the regulation of kratom products; to amend and reenact section 12.1\u201131\u201103 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty\u2011one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date."
+      "abstract": "Relating to criminal history record checks, the scheduling of kratom alkaloid derivatives as a schedule I controlled substance, and the regulation of kratom products; to amend and reenact sections 12.1\u201131\u201103 and 19\u201103.1\u201122.3, and subsection 7 of section 19\u201103.1\u201123 of the North Dakota Century Code, relating to penalties for the use and possession of kratom alkaloid derivatives and the sale of kratom to individuals under twenty\u2011one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date."
     }
   ],
   "other_titles": [],
@@ -112,6 +112,130 @@
       "_processing": {
         "log_file_created": "2026-09-04T09:22:53Z"
       }
+    },
+    {
+      "description": "Amendment proposed on floor",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Amendment adopted",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 46 nays 0",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Concurred",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 91 nays 2",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Returned to House (12)",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 09/04",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 09/04",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T09:52:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +271,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with Senate Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-06000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-07000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -155,6 +301,17 @@
       "links": [
         {
           "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-03001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Axtman",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/special-2/documents/25-1453-05001m.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -181,7 +338,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T09:22:53Z",
+    "logs_latest_update": "2026-09-16T09:52:13Z",
     "text_extraction_latest_update": "2026-09-04T09:23:42.520544Z"
   }
 }
